@@ -12,6 +12,10 @@
   clear: both;
 
 }
+*{
+  box-sizing: border-box;
+}
+
 .c2{float: left;
   width: 33.33%;
   padding: 5px;
